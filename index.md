@@ -5,6 +5,20 @@ You can use the [editor on GitHub](https://github.com/HJaliliani/hamplus/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+https://hjaliliani.github.io/hamplus/
+
+
+https://hjaliliani.github.io/hamplus/1/
+
+https://hjaliliani.github.io/hamplus2/
+
+https://hjaliliani.github.io/
+
+
+https://hjaliliani.github.io/2
+
+
+https://hjaliliani.github.io/23/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
